@@ -1,0 +1,108 @@
+[INF_header]
+INF_version = 3
+DAX_file_path = "D:\DATA\560nm_16ms_Multiplexing_000.dax"
+DAX_data_type = "uint16_big_endian"
+Machine_Name = "STORM3"
+
+[Camera_configuration]
+frame_X_min = 193
+frame_Y_min = 193
+frame_X_size = 128
+frame_Y_size = 128
+Camera_Model = "DU897_BV"
+HS_Type = "EM Amp"
+HS_Speed_EM = "17.0 MHz"
+HS_Speed_Conv = "3.0 MHz"
+PreAmp_Gain = "Gain 3"
+VS_Speed = "0.59 MHz"
+VS_Amplitude = "Normal"
+Crop_Mode = "OFF"
+Frame_Transfer_Mode = "ON"
+Recording_Mode = "Fixed"
+Requested_Number_Of_Frames = 240
+Requested_Frame_Rate = 60
+Requested_Exposure_Time = 0.016
+binning = 1
+Frame_Rate = 60
+Exposure_Time = 0.016
+EM_Gain_Mode = "linear"
+EMCCD_Gain = 100
+Trigger_Mode = "Internal"
+Camera_Temperature = -80
+Laser_Control = "Manual"
+number_of_frames = 240
+Fan_Mode = "Full"
+
+[Laser_Power_Settings]
+Initial_405_Head_Set_mW = 0.000000
+Initial_405_Head_Get_mW = 0.000000
+Initial_405_Photodiode_V = 0.000000
+Initial_488_Head_Set_mW = 50.000000
+Initial_488_Head_Get_mW = 50.000000
+Initial_488_Photodiode_V = 0.000000
+Initial_488_AOM_Analog_V = 0.000000
+Initial_514_Head_Set_mW = 0.000000
+Initial_514_Head_Get_mW = 0.000000
+Initial_514_Photodiode_V = 0.000000
+Initial_514_AOM_Analog_V = 0.000000
+Initial_560_Head_Set_mW = 50.000000
+Initial_560_Head_Get_mW = 49.950800
+Initial_560_Photodiode_V = 0.443898
+Initial_560_AOM_Analog_V = 1.000000
+Initial_647_Head_Set_mW = 50.000000
+Initial_647_Head_Get_mW = 49.598000
+Initial_647_Photodiode_V = 0.410090
+Initial_647_AOM_Analog_V = 1.000000
+Initial_750_Head_Set_mW = 0.000000
+Initial_750_Head_Get_mW = 0.000000
+Initial_750_Photodiode_V = 0.000000
+Initial_750_AOM_Analog_V = 0.000000
+Final_405_Head_Set_mW = 0.000000
+Final_405_Head_Get_mW = 0.000000
+Final_405_Photodiode_V = 0.000000
+Final_488_Head_Set_mW = 50.000000
+Final_488_Head_Get_mW = 50.000000
+Final_488_Photodiode_V = 0.000000
+Final_488_AOM_Analog_V = 0.000000
+Final_514_Head_Set_mW = 0.000000
+Final_514_Head_Get_mW = 0.000000
+Final_514_Photodiode_V = 0.000000
+Final_514_AOM_Analog_V = 0.000000
+Final_560_Head_Set_mW = 50.000000
+Final_560_Head_Get_mW = 49.950800
+Final_560_Photodiode_V = 0.443576
+Final_560_AOM_Analog_V = 1.000000
+Final_647_Head_Set_mW = 50.000000
+Final_647_Head_Get_mW = 50.258000
+Final_647_Photodiode_V = 0.409768
+Final_647_AOM_Analog_V = 1.000000
+Final_750_Head_Set_mW = 0.000000
+Final_750_Head_Get_mW = 0.000000
+Final_750_Photodiode_V = 0.000000
+Final_750_AOM_Analog_V = 0.000000
+
+[TIRF_Position]
+Initial_TIRF_position = 1.810022
+Final_TIRF_position = 1.810022
+
+[Nikon_TiEclipse]
+Initial_FilterBlock_position = 3
+Final_FilterBlock_position = 3
+Initial_Objective_position = 2
+Final_Objective_position = 2
+
+[AOM Modulation]
+750 Laser frequency (Hz) = 0.000000
+647 Laser frequency (Hz) = 30.000000
+560 Laser frequency (Hz) = 20.000000
+514 Laser frequency (Hz) = 0.000000
+488 Laser frequency (Hz) = 10.000000
+
+
+[INF_v1_compatibility]
+machine name = STORM3
+frame dimensions = 128 x 128
+binning = 1 x 1
+number of frames = 240
+preamp gain = 3
+EMCCD gain = 100

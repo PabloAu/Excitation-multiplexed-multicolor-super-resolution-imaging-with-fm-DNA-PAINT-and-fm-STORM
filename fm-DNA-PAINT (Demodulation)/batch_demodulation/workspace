@@ -1,0 +1,8 @@
+<NotepadPlus>
+    <Project name="batch_demodulation">
+        <File name="analysis.py" />
+        <File name="DAX.py" />
+        <File name="main.py" />
+        <File name="storm.py" />
+    </Project>
+</NotepadPlus>
