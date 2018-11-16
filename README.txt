@@ -16,9 +16,6 @@ Download the entire repository and consult
 
 
 How to cite: 
-
-
-(Please, acknowledge this code in your publications)
 --------------------------
 
    
