@@ -1,16 +1,15 @@
-﻿fm-STORM (Python)
-
-
-Downloading and Running fm-STORM 
+﻿
+Downloading fm-STORM and fm-DNA-PAINT (Python)
 --------------------------
 
 
-This repository contains the Phython version of fm-STORM software.
+This repository contains the Phython version of fm-STORM and fm-DNA-PAINT softwares.
 
-It is distributed with the GNU GPL v3 license. 
+They are distributed with the GNU GPL v3 license. 
 
 Download the entire repository and consult
- "fm-STORM Demodulation Software Guide.docx" for instructions.
+ "fm-STORM Demodulation Software Guide.docx" and/or 
+"fm-DNA-PAINT Demodulation Software Guide.docx" for instructions.
 
 
 
